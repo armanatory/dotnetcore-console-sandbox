@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "dotnetcore-console-sandbox/1.0.0": {
+        "runtime": {
+          "dotnetcore-console-sandbox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnetcore-console-sandbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

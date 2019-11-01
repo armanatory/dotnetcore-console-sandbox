@@ -1,0 +1,11 @@
+/home/arman/www/dotnet/dotnetcore-console-sandbox/obj/Debug/netcoreapp3.0/dotnetcore-console-sandbox.csprojAssemblyReference.cache
+/home/arman/www/dotnet/dotnetcore-console-sandbox/obj/Debug/netcoreapp3.0/dotnetcore-console-sandbox.AssemblyInfoInputs.cache
+/home/arman/www/dotnet/dotnetcore-console-sandbox/obj/Debug/netcoreapp3.0/dotnetcore-console-sandbox.AssemblyInfo.cs
+/home/arman/www/dotnet/dotnetcore-console-sandbox/bin/Debug/netcoreapp3.0/dotnetcore-console-sandbox
+/home/arman/www/dotnet/dotnetcore-console-sandbox/bin/Debug/netcoreapp3.0/dotnetcore-console-sandbox.deps.json
+/home/arman/www/dotnet/dotnetcore-console-sandbox/bin/Debug/netcoreapp3.0/dotnetcore-console-sandbox.runtimeconfig.json
+/home/arman/www/dotnet/dotnetcore-console-sandbox/bin/Debug/netcoreapp3.0/dotnetcore-console-sandbox.runtimeconfig.dev.json
+/home/arman/www/dotnet/dotnetcore-console-sandbox/bin/Debug/netcoreapp3.0/dotnetcore-console-sandbox.dll
+/home/arman/www/dotnet/dotnetcore-console-sandbox/bin/Debug/netcoreapp3.0/dotnetcore-console-sandbox.pdb
+/home/arman/www/dotnet/dotnetcore-console-sandbox/obj/Debug/netcoreapp3.0/dotnetcore-console-sandbox.dll
+/home/arman/www/dotnet/dotnetcore-console-sandbox/obj/Debug/netcoreapp3.0/dotnetcore-console-sandbox.pdb
